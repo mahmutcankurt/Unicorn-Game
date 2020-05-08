@@ -1,7 +1,7 @@
 # Unicorn-Game
 Small 2d Game with Voice Control on p5js
 
-You can access this sound controlled game with p5js from the link below. If you shout "ONE", our main character, Unicorn, will jump.
+You can access this sound controlled game with p5js from the link below. If you shout "UP", our main character, Unicorn, will jump.
 
 https://editor.p5js.org/mahmutcankurt/full/VFsHuQRk
 
